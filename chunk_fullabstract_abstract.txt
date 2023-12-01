@@ -1,0 +1,206 @@
+What is the research on stomach issues?
+2023-10-31 08:28:28.240 | INFO     | __main__:<cell line: 14>:18 - Score: 1.271299958229065
+2023-10-31 08:28:28.248 | INFO     | __main__:<cell line: 14>:19 - Text: background and objectives : there is a wide variation of reported incidence of small bowel obstruction ( sbo ) after laparoscopic roux - en - y gastric bypass ( lgb ) . 
+ there is also wide variation in technique , not only in placement of the roux limb , but also regarding closure or nonclosure of the mesenteric defects . 
+ the objective of this study was to examine the incidence and characteristics of sbo after antecolic antegastric bypass with nonclosure of the mesenteric defect of the jejunojejunal anastomosis.methods:this is a retrospective review of a series of consecutive lgbs over a 3-year period . 
+ all procedures were performed by the same surgeon using the same technique . in no case was the mesenteric defect closed . a prospectively maintained database 
+ was used for data collection . 
+ patients who returned with an sbo were the study group , and those who underwent revisional bariatric surgery or conversion to open operation were excluded.results:there were 249 primary lgbs performed during the study period ; 15 of the operations were followed by sbo , for an incidence of 6.0% . 
+ four cases were caused by an internal hernia ( ih ) , for an incidence of 1.6% , and 11 were caused by adhesions , which accounted for 73% of the sbos.conclusions:sbo after lgb is a relatively common complication . 
+ the incidence of sbo from ih with nonclosure of the mesenteric defect is similar to that in other series where the defect is closed . 
+ regardless of the cause of the sbo , operative treatment of the patient who has a gastric bypass remains the definitive standard and should not be delayed . 
+
+2023-10-31 08:28:28.252 | INFO     | __main__:<cell line: 14>:18 - Score: 1.4648607969284058
+2023-10-31 08:28:28.254 | INFO     | __main__:<cell line: 14>:19 - Text: background : the present study was carried out to assess the effects of community nutrition intervention based on advocacy approach on malnutrition status among school - aged children in shiraz , iran.materials and methods : this case - control nutritional intervention has been done between 2008 and 2009 on 2897 primary and secondary school boys and girls ( 7 - 13 years old ) based on advocacy approach in shiraz , iran . 
+ the project provided nutritious snacks in public schools over a 2-year period along with advocacy oriented actions in order to implement and promote nutritional intervention . for evaluation of effectiveness of the intervention growth monitoring indices of pre- and post - intervention were statistically compared.results:the frequency of subjects with body mass index lower than 5% decreased significantly after intervention among girls ( p = 0.02 ) . 
+ however , there were no significant changes among boys or total population . 
+ the mean of all anthropometric indices changed significantly after intervention both among girls and boys as well as in total population . 
+ the pre- and post - test education assessment in both groups showed that the student 's average knowledge score has been significantly increased from 12.5  3.2 to 16.8  4.3 ( p < 0.0001).conclusion : this study demonstrates the potential success and scalability of school feeding programs in iran . 
+ community nutrition intervention based on the advocacy process model is effective on reducing the prevalence of underweight specifically among female school aged children . 
+
+2023-10-31 08:28:28.257 | INFO     | __main__:<cell line: 14>:18 - Score: 1.554894208908081
+2023-10-31 08:28:28.258 | INFO     | __main__:<cell line: 14>:19 - Text: introduction : breast cancer accounts for 19 - 34% of all cancer cases among women in india . 
+ there is high mortality due to late stage diagnosis as patients usually present at an advanced stage because of lack of awareness and nonexistent breast cancer screening programs . 
+ early detection and prompt treatment offer the greatest chance of long - term survival and breast self - examination ( bse ) seems to be a important viable optional substitute for early detection of cancer.objectives:1 ) to assess the level of knowledge of degree college female students on bse . 
+ 2 ) to determine the effectiveness of planned teaching program among degree college female students on bse . 
+ 3 ) to find the association between pretest knowledge and selected demographic variables.materials and methods : pre - experimental one group pretestpost - test design was carried out among 40 degree female students by using cluster sampling method from selected colleges of udupi district.results:the data analyzed showed that majority ( 52% ) of them was in the age group of 18 - 19 years and 72% of them were had average knowledge on bse in the pretest score . 
+ out of 40 participants only one student was performing bse occasionally.conclusions:awareness regarding breast self examination among young generations is useful and it is the most important viable tool for early detection . 
+
+2023-10-31 08:28:28.261 | INFO     | __main__:<cell line: 14>:18 - Score: 1.576216220855713
+2023-10-31 08:28:28.267 | INFO     | __main__:<cell line: 14>:19 - Text: type 2 diabetes is characterized by insulin resistance , and enpp1 plays an important role in insulin resistance . 
+ we investigated the association of the enpp1 k121q polymorphism with both diabetes and obesity ( body mass index [ bmi ] ) in korean male workers . 
+ the study design was case - control . 
+ subjects were 1,945 male workers ( type 2 diabetes , 195 ; non - diabetes , 1,750 ) of nuclear power plants who received examinations from march to october in 2004 . 
+ we collected venous blood samples under fasting ( 8 hr ) conditions , calculated bmi by height and weight , and assessed relevant biochemical factors . 
+ the results of this study demonstrated that the enpp1 121q genotype ( kq+qq types ) was not associated with type 2 diabetes ( odds ratios [ or ] , 0.854 ; 95% confidence interval [ ci ] , 0.571 - 1.278 ) or obesity ( or , 0.933 ; 95% ci , 0.731 - 1.190 ) . 
+ in addition , the frequency of the q allele was not related to type 2 diabetes ( or , 0.911 ; 95% ci , 0.630 - 1.319 ) or obesity ( or , 0.962 ; 95% ci , 0.767 - 1.205 ) . 
+ we concluded that the enpp1 121q allele is not a critical determinant for either diabetes or obesity in korean males . 
+ the discordance between the results of this study and those derived from studies of dominican , south asian , caucasian , finnish , and french populations might be due to differences in genetic backgrounds between these populations . 
+
+what is the research on retina?
+2023-10-31 08:28:28.634 | INFO     | __main__:<cell line: 14>:18 - Score: 1.2742444276809692
+2023-10-31 08:28:28.640 | INFO     | __main__:<cell line: 14>:19 - Text: purposeto evaluate the association between the size of peripheral retinal nonperfusion and the number of intravitreal ranibizumab injections in patients with treatment - nave central retinal vein occlusion ( crvo).methodsfifty - four patients with treatment - nave crvo and macular edema were included . 
+ each patient underwent a full ophthalmologic examination including optical coherence tomography imaging and ultrawide - field fluorescein angiography . 
+ monthly intravitreal ranibizumab injections were applied according to the recommendations of the german ophthalmologic society . 
+ two ophthalmologists quantified the areas of peripheral retinal nonperfusion ( group 1= less than five disc areas , group 2= more than five disc areas ) . 
+ correlation analyses between the size of nonperfusion with best - corrected visual acuity , central subfield thickness , and the number of intravitreal injections were performed.resultsbest-corrected visual acuity improved significantly after intravitreal injections ( p<0.001 , both groups ) . 
+ final central subfield thickness after treatment did not significantly differ between both groups ( p=0.92 , p=0.96 , respectively ) . 
+ mean number of injections in group 1 and group 2 was 4.122.73 and 9.323.84 , respectively ( p<0.001 ) . 
+ there was a significant positive correlation between areas of nonperfusion and the number of injections in each group . 
+ ( r=0.97 , p<0.001 ; r=0.94 , p<0.001 , respectively).conclusionperipheral retinal nonperfusion in patients with crvo correlates significantly with the number of needed intravitreal ranibizumab injections . 
+ ultrawide - field fluorescein angiography is a useful tool for detection of peripheral retinal ischemia , which may have direct implications in the diagnosis , follow - up , and treatment of these patients . 
+
+2023-10-31 08:28:28.644 | INFO     | __main__:<cell line: 14>:18 - Score: 1.6721664667129517
+2023-10-31 08:28:28.651 | INFO     | __main__:<cell line: 14>:19 - Text: introduction : breast cancer accounts for 19 - 34% of all cancer cases among women in india . 
+ there is high mortality due to late stage diagnosis as patients usually present at an advanced stage because of lack of awareness and nonexistent breast cancer screening programs . 
+ early detection and prompt treatment offer the greatest chance of long - term survival and breast self - examination ( bse ) seems to be a important viable optional substitute for early detection of cancer.objectives:1 ) to assess the level of knowledge of degree college female students on bse . 
+ 2 ) to determine the effectiveness of planned teaching program among degree college female students on bse . 
+ 3 ) to find the association between pretest knowledge and selected demographic variables.materials and methods : pre - experimental one group pretestpost - test design was carried out among 40 degree female students by using cluster sampling method from selected colleges of udupi district.results:the data analyzed showed that majority ( 52% ) of them was in the age group of 18 - 19 years and 72% of them were had average knowledge on bse in the pretest score . 
+ out of 40 participants only one student was performing bse occasionally.conclusions:awareness regarding breast self examination among young generations is useful and it is the most important viable tool for early detection . 
+
+2023-10-31 08:28:28.658 | INFO     | __main__:<cell line: 14>:18 - Score: 1.685396432876587
+2023-10-31 08:28:28.660 | INFO     | __main__:<cell line: 14>:19 - Text: we have previously demonstrated that rad6 and -catenin enhance each other 's expression through a positive feedback loop to promote breast cancer development / progression . while -catenin has been implicated in melanoma pathogenesis , rad6 function has not been investigated . here 
+ , we examined the relationship between rad6 and -catenin in melanoma development and progression . 
+ eighty - eight cutaneous tumors 
+ , 30 nevi , 29 primary melanoma , and 29 metastatic melanomas , were immunostained with anti--catenin and anti - rad6 antibodies . strong expression of rad6 was observed in only 27% of nevi as compared to 100% of primary and 96% of metastatic melanomas . 
+ -catenin was strongly expressed in 97% of primary and 93% of metastatic melanomas , and unlike rad6 , in 93% of nevi . 
+ none of the tumors expressed nuclear -catenin . 
+ -catenin was exclusively localized on the cell membrane of 55% of primary , 62% of metastatic melanomas , and only 10% of nevi . 
+ cytoplasmic -catenin was detected in 90% of nevi , 17% of primary , and 8% of metastatic melanoma , whereas 28% of primary and 30% of metastatic melanomas exhibited -catenin at both locations . 
+ these data suggest that melanoma development and progression are associated with rad6 upregulation and membranous redistribution of -catenin and that -catenin and rad6 play independent roles in melanoma development . 
+
+2023-10-31 08:28:28.663 | INFO     | __main__:<cell line: 14>:18 - Score: 1.7377450466156006
+2023-10-31 08:28:28.665 | INFO     | __main__:<cell line: 14>:19 - Text: the amyloid cascade hypothesis remains a robust model of ad neurodegeneration . 
+ however , amyloid deposits contain proteins besides a , such as apolipoprotein e ( apoe ) . 
+ inheritance of the apoe4 allele is the strongest genetic risk factor for late - onset ad . 
+ however , there is no consensus on how different apoe isotypes contribute to ad pathogenesis . 
+ it has been hypothesized that apoe and apoe4 in particular is an amyloid catalyst or  
+ pathological chaperone  . 
+ alternatively it has been posited that apoe regulates a clearance , with apoe4 been worse at this function compared to apoe3 . 
+ these views seem fundamentally opposed . 
+ the former would indicate that removing apoe will reduce ad pathology , while the latter suggests increasing brain apoe levels may be beneficial . 
+ here we consider the scientific basis of these different models of apoe function and suggest that these seemingly opposing views can be reconciled . the optimal therapeutic target may be to inhibit the interaction of apoe with a rather than altering apoe levels . 
+ such an approach will not have detrimental effects on the many beneficial roles apoe plays in neurobiology . 
+ furthermore , other a binding proteins , including act and apo j can inhibit or promote a oligomerization / polymerization depending on conditions and might be manipulated to effect ad treatment . 
+
+What is the research on anemia?
+2023-10-31 08:28:28.951 | INFO     | __main__:<cell line: 14>:18 - Score: 1.1303280591964722
+2023-10-31 08:28:28.958 | INFO     | __main__:<cell line: 14>:19 - Text: backgroundanemia in patients with cancer who are undergoing active therapy is commonly encountered and may worsen quality of life in these patients . the effect of blood transfusion is often temporary and may be associated with serious adverse events . 
+ erythropoiesis - stimulating agents are not effective in 30%50% of patients and may have a negative effect on overall survival.aimsto assess the efficacy and feasibility of intravenous iron therapy in patients with cancer who have non - iron - deficiency anemia and who are undergoing treatment with chemotherapy without the use of erythropoiesis - stimulating agents.methodsadult patients with solid cancers and non - iron - deficiency anemia were included . 
+ ferric sucrose at a dose of 200 mg was given in short intravenous infusions weekly for a total of 12 weeks . 
+ hemoglobin level was measured at baseline , every 3 weeks , and 2 weeks after the last iron infusion ( week 14 ) . 
+ adverse events related to intravenous iron were prospectively reported.resultsof 25 patients included , 19 ( 76.0% ) completed at least three iron infusions and 14 ( 56.0% ) finished the planned 12 weeks of therapy . 
+ the mean hemoglobin level of the 25 patients at baseline was 9.6 g / dl ( median , 9.9 g / dl ; range , 6.9 g / dl 10.9 g / dl ) . the mean change in hemoglobin level for the 15 patients who completed at least 9 treatments was 1.7 g / dl ( median , 1.1 g / dl ; range , 1.9 g / dl to 3.2 g / dl ) ; it reached 2.1 g / dl ( median , 1.3 g / dl ; range , 0.2 g / dl to 4.6 g / dl ; p = 0.0007 ) for the 14 patients who completed all 12 weekly treatments . 
+ five ( 20.0% ) patients were transfused and considered as treatment failures . 
+ no treatment - related adverse events were reported.conclusionintravenous iron treatment alone is safe and may reduce blood transfusion requirements and improve hemoglobin level in patients with cancer who are undergoing anticancer therapy . 
+ further randomized studies are needed to confirm these findings . 
+
+2023-10-31 08:28:28.964 | INFO     | __main__:<cell line: 14>:18 - Score: 1.3832412958145142
+2023-10-31 08:28:28.968 | INFO     | __main__:<cell line: 14>:19 - Text: background : the present study was carried out to assess the effects of community nutrition intervention based on advocacy approach on malnutrition status among school - aged children in shiraz , iran.materials and methods : this case - control nutritional intervention has been done between 2008 and 2009 on 2897 primary and secondary school boys and girls ( 7 - 13 years old ) based on advocacy approach in shiraz , iran . 
+ the project provided nutritious snacks in public schools over a 2-year period along with advocacy oriented actions in order to implement and promote nutritional intervention . for evaluation of effectiveness of the intervention growth monitoring indices of pre- and post - intervention were statistically compared.results:the frequency of subjects with body mass index lower than 5% decreased significantly after intervention among girls ( p = 0.02 ) . 
+ however , there were no significant changes among boys or total population . 
+ the mean of all anthropometric indices changed significantly after intervention both among girls and boys as well as in total population . 
+ the pre- and post - test education assessment in both groups showed that the student 's average knowledge score has been significantly increased from 12.5  3.2 to 16.8  4.3 ( p < 0.0001).conclusion : this study demonstrates the potential success and scalability of school feeding programs in iran . 
+ community nutrition intervention based on the advocacy process model is effective on reducing the prevalence of underweight specifically among female school aged children . 
+
+2023-10-31 08:28:28.973 | INFO     | __main__:<cell line: 14>:18 - Score: 1.4888908863067627
+2023-10-31 08:28:28.978 | INFO     | __main__:<cell line: 14>:19 - Text: purpose : to investigate to what degree the presence of hypertension ( htn ) and poor glycemic control ( gc ) influences the likelihood of having microalbuminuria ( mau ) among cuban americans with type 2 diabetes ( t2d).methods : a cross - sectional study conducted in cuban americans ( n = 179 ) with t2d . 
+ participants were recruited from a randomly generated mailing list purchased from knowledge - base marketing , inc . 
+ blood pressure ( bp ) was measured twice and averaged using an adult size cuff . 
+ glycosylated hemoglobin ( a1c ) levels were measured from whole blood samples with the roche tina - quant method . 
+ first morning urine samples were collected from each participant to determine mau by a semiquantitative assay ( immunodip).results : mau was present in 26% of cuban americans with t2d . 
+ a significantly higher percentage of subjects with ma had htn ( p = 0.038 ) and elevated a1c ( p = 0.002 ) than those with normoalbuminuria . 
+ logistic regression analysis showed that after controlling for covariates , subjects with poor gc were 6.76 times more likely to have mau if they had hypertension compared with those without hypertension ( p = 0.004 ; 95% confidence interval [ ci ] : 1.83 , 23.05).conclusion : the clinical significance of these findings emphasizes the early detection of mau in this hispanic subgroup combined with bp and good gc , which are fundamentals in preventing and treating diabetes complications and improving individuals renal and cardiovascular outcomes . 
+
+2023-10-31 08:28:28.983 | INFO     | __main__:<cell line: 14>:18 - Score: 1.496442198753357
+2023-10-31 08:28:28.989 | INFO     | __main__:<cell line: 14>:19 - Text: type 2 diabetes is characterized by insulin resistance , and enpp1 plays an important role in insulin resistance . 
+ we investigated the association of the enpp1 k121q polymorphism with both diabetes and obesity ( body mass index [ bmi ] ) in korean male workers . 
+ the study design was case - control . 
+ subjects were 1,945 male workers ( type 2 diabetes , 195 ; non - diabetes , 1,750 ) of nuclear power plants who received examinations from march to october in 2004 . 
+ we collected venous blood samples under fasting ( 8 hr ) conditions , calculated bmi by height and weight , and assessed relevant biochemical factors . 
+ the results of this study demonstrated that the enpp1 121q genotype ( kq+qq types ) was not associated with type 2 diabetes ( odds ratios [ or ] , 0.854 ; 95% confidence interval [ ci ] , 0.571 - 1.278 ) or obesity ( or , 0.933 ; 95% ci , 0.731 - 1.190 ) . 
+ in addition , the frequency of the q allele was not related to type 2 diabetes ( or , 0.911 ; 95% ci , 0.630 - 1.319 ) or obesity ( or , 0.962 ; 95% ci , 0.767 - 1.205 ) . 
+ we concluded that the enpp1 121q allele is not a critical determinant for either diabetes or obesity in korean males . 
+ the discordance between the results of this study and those derived from studies of dominican , south asian , caucasian , finnish , and french populations might be due to differences in genetic backgrounds between these populations . 
+
+What is the research on breast cancer?
+2023-10-31 08:28:29.279 | INFO     | __main__:<cell line: 14>:18 - Score: 0.9510407447814941
+2023-10-31 08:28:29.287 | INFO     | __main__:<cell line: 14>:19 - Text: introduction : breast cancer accounts for 19 - 34% of all cancer cases among women in india . 
+ there is high mortality due to late stage diagnosis as patients usually present at an advanced stage because of lack of awareness and nonexistent breast cancer screening programs . 
+ early detection and prompt treatment offer the greatest chance of long - term survival and breast self - examination ( bse ) seems to be a important viable optional substitute for early detection of cancer.objectives:1 ) to assess the level of knowledge of degree college female students on bse . 
+ 2 ) to determine the effectiveness of planned teaching program among degree college female students on bse . 
+ 3 ) to find the association between pretest knowledge and selected demographic variables.materials and methods : pre - experimental one group pretestpost - test design was carried out among 40 degree female students by using cluster sampling method from selected colleges of udupi district.results:the data analyzed showed that majority ( 52% ) of them was in the age group of 18 - 19 years and 72% of them were had average knowledge on bse in the pretest score . 
+ out of 40 participants only one student was performing bse occasionally.conclusions:awareness regarding breast self examination among young generations is useful and it is the most important viable tool for early detection . 
+
+2023-10-31 08:28:29.292 | INFO     | __main__:<cell line: 14>:18 - Score: 1.3823078870773315
+2023-10-31 08:28:29.301 | INFO     | __main__:<cell line: 14>:19 - Text: we have previously demonstrated that rad6 and -catenin enhance each other 's expression through a positive feedback loop to promote breast cancer development / progression . while -catenin has been implicated in melanoma pathogenesis , rad6 function has not been investigated . here 
+ , we examined the relationship between rad6 and -catenin in melanoma development and progression . 
+ eighty - eight cutaneous tumors 
+ , 30 nevi , 29 primary melanoma , and 29 metastatic melanomas , were immunostained with anti--catenin and anti - rad6 antibodies . strong expression of rad6 was observed in only 27% of nevi as compared to 100% of primary and 96% of metastatic melanomas . 
+ -catenin was strongly expressed in 97% of primary and 93% of metastatic melanomas , and unlike rad6 , in 93% of nevi . 
+ none of the tumors expressed nuclear -catenin . 
+ -catenin was exclusively localized on the cell membrane of 55% of primary , 62% of metastatic melanomas , and only 10% of nevi . 
+ cytoplasmic -catenin was detected in 90% of nevi , 17% of primary , and 8% of metastatic melanoma , whereas 28% of primary and 30% of metastatic melanomas exhibited -catenin at both locations . 
+ these data suggest that melanoma development and progression are associated with rad6 upregulation and membranous redistribution of -catenin and that -catenin and rad6 play independent roles in melanoma development . 
+
+2023-10-31 08:28:29.306 | INFO     | __main__:<cell line: 14>:18 - Score: 1.4948689937591553
+2023-10-31 08:28:29.311 | INFO     | __main__:<cell line: 14>:19 - Text: because of rampant concern that estrogenic chemicals in the environment may be adversely affecting the health of humans and wildlife , reliable methods for detecting and characterizing estrogenic chemicals are needed . 
+ it is important that general agreement be reached on which tests to use and that these tests then be applied to the testing of both man - made and naturally occurring chemicals . as a step toward developing a comprehensive approach to screening 
+ chemicals for estrogenic activity , three assays for detecting estrogenicity were conducted on 10 chemicals with known or suspected estrogenic activity . 
+ the assays were 1 ) competitive binding with the mouse uterine estrogen receptor , 2 ) transcriptional activation in hela cells transfected with plasmids containing an estrogen receptor and a response element , and 3 ) the uterotropic assay in mice . 
+ the chemicals studied were 17 beta - estradiol , diethylstilbestrol , tamoxifen , 4-hydroxytamoxifen , methoxychlor , the methoxychlor metabolite 2,2-bis(p - hydroxyphenyl)-1,1,1-trichloroethane ( hpte ) , endosulfan , nonylphenol , o , p'-ddt , and kepone . 
+ these studies were conducted to assess the utility of this three - assay combination in the routine screening of chemicals , or combinations of chemicals , for estrogenic activity . 
+ results were consistent among the three assays with respect to what is known about the estrogenic activities of the chemicals tested and their requirements for metabolic activation . by providing information on three levels of hormonal activity 
+ ( receptor binding , transcriptional activation , and an in vivo effect in an estrogen - responsive tissue ) , an informative profile of estrogenic activity is obtained with a reasonable investment of resources.imagesp1296-afigure 1.figure 2.figure 3.figure 4.figure 5 . 
+
+2023-10-31 08:28:29.312 | INFO     | __main__:<cell line: 14>:18 - Score: 1.5549230575561523
+2023-10-31 08:28:29.316 | INFO     | __main__:<cell line: 14>:19 - Text: musculoskeletal disorders are among the most common problems affecting the elderly . 
+ the resulting loss of mobility and physical independence can be particularly devastating in this population . 
+ the aim of this article is to present some of the most frequent musculoskeletal disorders of the elderly , such as fractures , osteoporosis , osteoarthritis , microcrystal disorders , infections , and tumors . 
+
+Is there research on malnutrition in Iran?
+2023-10-31 08:28:29.682 | INFO     | __main__:<cell line: 14>:18 - Score: 0.7628023624420166
+2023-10-31 08:28:29.686 | INFO     | __main__:<cell line: 14>:19 - Text: background : the present study was carried out to assess the effects of community nutrition intervention based on advocacy approach on malnutrition status among school - aged children in shiraz , iran.materials and methods : this case - control nutritional intervention has been done between 2008 and 2009 on 2897 primary and secondary school boys and girls ( 7 - 13 years old ) based on advocacy approach in shiraz , iran . 
+ the project provided nutritious snacks in public schools over a 2-year period along with advocacy oriented actions in order to implement and promote nutritional intervention . for evaluation of effectiveness of the intervention growth monitoring indices of pre- and post - intervention were statistically compared.results:the frequency of subjects with body mass index lower than 5% decreased significantly after intervention among girls ( p = 0.02 ) . 
+ however , there were no significant changes among boys or total population . 
+ the mean of all anthropometric indices changed significantly after intervention both among girls and boys as well as in total population . 
+ the pre- and post - test education assessment in both groups showed that the student 's average knowledge score has been significantly increased from 12.5  3.2 to 16.8  4.3 ( p < 0.0001).conclusion : this study demonstrates the potential success and scalability of school feeding programs in iran . 
+ community nutrition intervention based on the advocacy process model is effective on reducing the prevalence of underweight specifically among female school aged children . 
+
+2023-10-31 08:28:29.696 | INFO     | __main__:<cell line: 14>:18 - Score: 1.51079523563385
+2023-10-31 08:28:29.699 | INFO     | __main__:<cell line: 14>:19 - Text: this was a cross - sectional study that investigated pesticide exposure and its risk factors targeting vegetable farmers selected through cluster sampling . 
+ the sampling size calculated with p = .05 was 211 vegetable farmers and 37 farms . 
+ the mean usage of pesticide was 21.35 liters . 
+ risk factors included damaged backpack sprayer ( 34.7% ) , spills on hands ( 31.8% ) , and spraying against the wind ( 58% ) . 
+ the top 3 pesticides used were pyrethroid ( 46.4% ) , organophosphates ( 24.2% ) , and carbamates ( 21.3% ) . 
+ those who were exposed to fungicides and insecticides also had higher total pesticide exposure . 
+ furthermore , a farmer who was a pesticide applicator , mixer , loader , and who had not been given instructions through training was at risk of having higher pesticide exposure . 
+ the most prevalent symptoms were headache ( 64.1% ) , muscle pain ( 61.1% ) , cough ( 45.5% ) , weakness ( 42.4% ) , eye pain ( 39.9% ) , chest pain ( 37.4% ) , and eye redness ( 33.8% ) . 
+ the data can be used for the formulation of an integrated program on safety and health in the vegetable industry . 
+
+2023-10-31 08:28:29.707 | INFO     | __main__:<cell line: 14>:18 - Score: 1.5613094568252563
+2023-10-31 08:28:29.710 | INFO     | __main__:<cell line: 14>:19 - Text: type 2 diabetes is characterized by insulin resistance , and enpp1 plays an important role in insulin resistance . 
+ we investigated the association of the enpp1 k121q polymorphism with both diabetes and obesity ( body mass index [ bmi ] ) in korean male workers . 
+ the study design was case - control . 
+ subjects were 1,945 male workers ( type 2 diabetes , 195 ; non - diabetes , 1,750 ) of nuclear power plants who received examinations from march to october in 2004 . 
+ we collected venous blood samples under fasting ( 8 hr ) conditions , calculated bmi by height and weight , and assessed relevant biochemical factors . 
+ the results of this study demonstrated that the enpp1 121q genotype ( kq+qq types ) was not associated with type 2 diabetes ( odds ratios [ or ] , 0.854 ; 95% confidence interval [ ci ] , 0.571 - 1.278 ) or obesity ( or , 0.933 ; 95% ci , 0.731 - 1.190 ) . 
+ in addition , the frequency of the q allele was not related to type 2 diabetes ( or , 0.911 ; 95% ci , 0.630 - 1.319 ) or obesity ( or , 0.962 ; 95% ci , 0.767 - 1.205 ) . 
+ we concluded that the enpp1 121q allele is not a critical determinant for either diabetes or obesity in korean males . 
+ the discordance between the results of this study and those derived from studies of dominican , south asian , caucasian , finnish , and french populations might be due to differences in genetic backgrounds between these populations . 
+
+2023-10-31 08:28:29.712 | INFO     | __main__:<cell line: 14>:18 - Score: 1.5959223508834839
+2023-10-31 08:28:29.720 | INFO     | __main__:<cell line: 14>:19 - Text: we compared serum polychlorinated dibenzo - p - dioxins ( pcdds ) and polychlorinated dibenzofurans ( pcdfs ) among residents of two homes to levels among age- and sex - matched comparison subjects . 
+ the residents of the two homes consumed contaminated eggs and beef from animals raised at the homes . 
+ the animals had greater soil contact than those raised with conventional commercial husbandry practices . 
+ the comparison subjects were from a similar rural area , but did not consume home - produced beef and eggs . 
+ serum levels of 2,3,7 , 8-substituted tetra- , penta- , and hexacdds and penta- , hexa- , and heptacdfs were increased between 2- and 6-fold in residents from one home ; contaminated eggs and beef were consumed by residents for 2 - 15 years . 
+ elevations were less for those in the other index home , where only home - produced eggs were consumed for 2 years ; a 3-fold elevation of 1,2,3,7,8,9-hexacdd as compared to controls was most apparent . 
+ very strong bivariate correlations among all of the 2,3,7 , 8 penta- and hexacdds / cdfs were observed . 
+ the elevations observed verify that pcdd / pcdf - contaminated food contributed to the body burden of these compounds . 
+ the blood levels among the highest exposed participants are generally higher than those observed in other studies of u.s . 
+ contaminated - fish consumers and higher than average adipose tissue levels observed in u.s . urban populations . 
+ there are sufficient animal toxicologic and human epidemiologic data to recommend that exposures be reduced . in the study area , 
+ pentachlorophenol and pentachlorophenol incineration sources have been identified , and the animal contamination and blood elevations probably reflect these sources . 
+ soil reference values and site - specific risk assessments should include estimates of exposures to contamination in home - produced animal products . 
+ such estimates can be verified with limited pcdd / pcdf sampling of animals and humans.imagesfigure 1figure 2 

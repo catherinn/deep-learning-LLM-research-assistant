@@ -1,0 +1,20 @@
+# python < 3.10.11
+transformers==4.30
+einops
+accelerate
+einops
+langchain
+xformers
+bitsandbytes
+sentence_transformers
+datasets
+unstructured
+datasets
+scipy
+loguru
+torch
+torchvision
+torchaudio
+gradio
+faiss-cpu
+openai==0.28

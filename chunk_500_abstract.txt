@@ -1,0 +1,78 @@
+What is tardive dystonia (TD), and why is it a concern in patients taking antipsychotic medications?
+
+[Document(page_content='tardive dystonia ( td ) is a serious side effect of antipsychotic medications , more with typical antipsychotics , that is potentially irreversible in affected patients . \n studies show that newer atypical antipsychotics have a lower risk of td . as a result , many clinicians may have developed a false sense of security when prescribing these medications . we report a case of 20-year - old male with hyperthymic temperament and borderline intellectual functioning , who developed severe td after low dose short duration exposure to atypical antipsychotic risperidone and then olanzapine .'),
+Document(page_content='the goal of this paper is to alert the reader to be judicious and cautious before using casual low dose second generation antipsychotics in patient with no core psychotic features , hyperthymic temperament , or borderline intellectual functioning suggestive of organic brain damage , who are more prone to develop adverse effects such as td and monitor the onset of td in patients taking atypical antipsychotics .'),
+Document(page_content='we present an unusual case of recurrent cough syncope in a 43-year - old woman , which was initially thought to be seizures . \n syncopal episodes were triggered by paroxysms of cough and were characterized by unresponsiveness and myoclonic jerks in her extremities . \n she had a left - sided glomus jugulare tumor that extended into the posterior cranial fossa with evidence of worsening communicating hydrocephalus on brain imaging .'),
+Document(page_content='search for factors that can increase intracranial pressure seems warranted in patients with recurrent cough syncope .')]
+
+
+
+Question: Open question
+
+Ask a question ?Which article discusses the impact of insects
+Ask a question ?2023-10-31 07:37:52.864 | INFO     | __main__:<module>:110 - Score: 1.1166026592254639
+2023-10-31 07:37:52.864 | INFO     | __main__:<module>:111 - Text: many lepidopteran insects are agricultural pests that affect stored grains , food and fiber crops .
+ these insects have negative ecological and economic impacts since they lower crop yield , and pesticides are expensive and can have off - target effects on beneficial arthropods
+ . a better understanding of lepidopteran immunity will aid in identifying new targets for the development of specific insect pest management compounds .
+ a fundamental aspect of immunity , and therefore a logical target for control , is the induction of antimicrobial peptide ( amp ) expression .
+
+2023-10-31 07:37:52.864 | INFO     | __main__:<module>:110 - Score: 1.1419169902801514
+2023-10-31 07:37:52.864 | INFO     | __main__:<module>:111 - Text: although the general pathways leading to amp expression are conserved , specific components of these pathways , such as recognition proteins have diverged . in this review
+ we highlight how such comparative immunology could aid in developing pest management strategies that are specific to agricultural insect pests .
+
+2023-10-31 07:37:52.864 | INFO     | __main__:<module>:110 - Score: 1.1503496170043945
+2023-10-31 07:37:52.864 | INFO     | __main__:<module>:111 - Text: these peptides insert into and disrupt microbial membranes , thereby promoting pathogen clearance and insect survival .
+ pathways leading to amp expression have been extensively studied in the dipteran drosophila melanogaster . however , diptera are an important group of pollinators and pest management strategies that target their immune systems is not recommended .
+ recent advances have facilitated investigation of lepidopteran immunity , revealing both conserved and derived characteristics .
+
+2023-10-31 07:37:52.864 | INFO     | __main__:<module>:110 - Score: 1.7387347221374512
+2023-10-31 07:37:52.864 | INFO     | __main__:<module>:111 - Text: the project provided nutritious snacks in public schools over a 2-year period along with advocacy oriented actions in order to implement and promote nutritional intervention . for evaluation of effectiveness of the intervention growth monitoring indices of pre- and post - intervention were statistically compared.results:the frequency of subjects with body mass index lower than 5% decreased significantly after intervention among girls ( p = 0.02 ) .
+ however , there were no significant changes among boys or total population .
+
+
+
+
+
+
+ Question: very specific question
+
+ What is tardive dystonia (TD), and why is it a concern in patients taking antipsychotic medications?
+
+2023-10-31 07:39:20.390 | INFO     | __main__:<module>:110 - Score: 0.31345468759536743
+2023-10-31 07:39:20.390 | INFO     | __main__:<module>:111 - Text: tardive dystonia ( td ) is a serious side effect of antipsychotic medications , more with typical antipsychotics , that is potentially irreversible in affected patients .
+ studies show that newer atypical antipsychotics have a lower risk of td . as a result , many clinicians may have developed a false sense of security when prescribing these medications .
+ we report a case of 20-year - old male with hyperthymic temperament and borderline intellectual functioning , who developed severe td after low dose short duration exposure to atypical antipsychotic risperidone and then olanzapine .
+
+2023-10-31 07:39:20.390 | INFO     | __main__:<module>:110 - Score: 0.7298528552055359
+2023-10-31 07:39:20.390 | INFO     | __main__:<module>:111 - Text: the goal of this paper is to alert the reader to be judicious and cautious before using casual low dose second generation antipsychotics in patient with no core psychotic features , hyperthymic temperament , or borderline intellectual functioning suggestive of organic brain damage , who are more prone to develop adverse effects such as td and monitor the onset of td in patients taking atypical antipsychotics .
+
+2023-10-31 07:39:20.390 | INFO     | __main__:<module>:110 - Score: 1.438084363937378
+2023-10-31 07:39:20.390 | INFO     | __main__:<module>:111 - Text: we present an unusual case of recurrent cough syncope in a 43-year - old woman , which was initially thought to be seizures .
+ syncopal episodes were triggered by paroxysms of cough and were characterized by unresponsiveness and myoclonic jerks in her extremities .
+ she had a left - sided glomus jugulare tumor that extended into the posterior cranial fossa with evidence of worsening communicating hydrocephalus on brain imaging .
+
+2023-10-31 07:39:20.390 | INFO     | __main__:<module>:110 - Score: 1.4511054754257202
+2023-10-31 07:39:20.390 | INFO     | __main__:<module>:111 - Text: search for factors that can increase intracranial pressure seems warranted in patients with recurrent cough syncope .
+
+
+
+
+Question: very specific question
+
+ Can you explain the role of the glomus jugulare tumor  and how does it relate to the patient's symptoms?
+Ask a question ?2023-10-31 07:53:02.358 | INFO     | __main__:<module>:110 - Score: 1.026619791984558
+2023-10-31 07:53:02.358 | INFO     | __main__:<module>:111 - Text: we present an unusual case of recurrent cough syncope in a 43-year - old woman , which was initially thought to be seizures .
+ syncopal episodes were triggered by paroxysms of cough and were characterized by unresponsiveness and myoclonic jerks in her extremities .
+ she had a left - sided glomus jugulare tumor that extended into the posterior cranial fossa with evidence of worsening communicating hydrocephalus on brain imaging .
+
+2023-10-31 07:53:02.358 | INFO     | __main__:<module>:110 - Score: 1.3640787601470947
+2023-10-31 07:53:02.358 | INFO     | __main__:<module>:111 - Text: the mean hemoglobin level of the 25 patients at baseline was 9.6 g / dl ( median , 9.9 g / dl ; range , 6.9 g / dl 10.9 g / dl ) . the mean change in hemoglobin level for the 15 patients who completed at least 9 treatments was 1.7 g / dl ( median , 1.1 g / dl ; range , 1.9 g / dl to 3.2 g / dl ) ; it reached 2.1 g / dl ( median , 1.3 g / dl ; range , 0.2 g / dl to 4.6 g / dl ; p = 0.0007 ) for the 14 patients who completed all 12 weekly treatments .
+ five ( 20.0% ) patients were transfused and considered as treatment failures .
+
+2023-10-31 07:53:02.358 | INFO     | __main__:<module>:110 - Score: 1.3697301149368286
+2023-10-31 07:53:02.359 | INFO     | __main__:<module>:111 - Text: search for factors that can increase intracranial pressure seems warranted in patients with recurrent cough syncope .
+
+2023-10-31 07:53:02.359 | INFO     | __main__:<module>:110 - Score: 1.4014004468917847
+2023-10-31 07:53:02.359 | INFO     | __main__:<module>:111 - Text: we postulate that bouts of cough produced increased intracranial pressure both by raising intrathoracic and intraabdominal pressures as well as by transient obstruction to cerebrospinal fluid flow secondary to intermittent tonsillar herniation during cough .
+ this resulted in diffuse decrease in cerebral blood flow causing syncope .
+ the patient 's syncopal episodes decreased in frequency once an external ventricular drain was placed followed by a ventriculoperitoneal shunt .
